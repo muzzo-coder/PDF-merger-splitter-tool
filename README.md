@@ -103,7 +103,7 @@
 <p>For support or further queries, contact:</p>
 <ul>
     <li><strong>Name</strong>: Mujjamil Sofi</li>
-    <li><strong>Email</strong>: [your-email@example.com]</li>
+    <li><strong>Email</strong>: [mujammilsofi2@gmail.com]</li>
 </ul>
 
 <hr>
